@@ -1,6 +1,6 @@
 ﻿
 int Tal1 = Convert.ToInt32(GetInput("tal1"));
-int Tal2 = Convert.ToInt32(GetInput("tal1"));
+int Tal2 = Convert.ToInt32(GetInput("tal2"));
 
 
 
